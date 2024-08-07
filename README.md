@@ -1,7 +1,7 @@
 -  Hi, I’m Yash Gupta.
 -  I’m interested in exploring different asspects of coding and their applications.
--  I’m currently learning C++ and DSA.
--  I’d like to collaborate on basic projects that could give me exposure and experience I'm looking for.
+-  I’m currently learning LLM achritechtures, RAG, GenAI and DSA.
+-  I’d like to collaborate on projects that could give me exposure and experience I'm looking for.
 -  You can reach me through email : gyash8424@gmail.com
 
 <!---
